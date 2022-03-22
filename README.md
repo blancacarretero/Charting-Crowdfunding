@@ -32,5 +32,5 @@ Given the data, there is a clear trend showing how projects tend to decline in s
 ## Limitations
 1.	The sample size is small and there is not enough data and results for certain categories and subcategories to make more accurate analysis and statistical predictions. 
 2.	Data from only 2 crowdfunding platforms is not varied enough. Results and data from other crowdfunding companies would help in gathering more insightful analysis.
-3.	The data is spread through a large range of years. Data would be more accurate if it were focused to only the las 3-5 years. More data from this range would be more advantageous for analysis and predictions. 
+3.	The data is spread through a large range of years. Data would be more accurate if it were focused to only the last 3-5 years. More data from this range would be more advantageous for analysis and predictions as it would be more relevant.
 
