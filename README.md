@@ -24,7 +24,7 @@ A key point is that these categories seem to receive the most attention, thus ba
 
 ### Time Elapsed
 With the given data, we can see that most projects from all categories peak in success through the months of May-July. In contrast, failed and cancelled projects tend to be higher in the months of December-January.
-An interesting observation here may be that there may be seasonal factors that come into play, with higher success rates in the warmer months. However, the failed projects trend tends to spike up and down quite frequently. Thus, one should aim to set a timeline to reach the fundraising goal within one month of the initial start date. 
+An interesting observation here may be that there are seasonal factors that come into play - with higher success rates in the warmer months. However, the failed projects trend tends to spike up and down quite frequently. Thus, one should aim to set a timeline to reach the fundraising goal within one month of the initial start date. 
 
 ### Funding Goal Amount
 Given the data, there is a clear trend showing how projects tend to decline in success rate as the goal amount gets higher. Most successful projects have kept their funding goals lower. Therefore, for a greater chance of a successful project it is recommended to aim for lower funding goals. 
