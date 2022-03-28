@@ -15,7 +15,7 @@ The data set from previous projects was essentially broken down into 4 outcomes:
 
 ### Categories
 There were 9 main categories found in the data, with the main 3 being: Theater (34%), Film & Video (17.8%), and Music (17.5%) which account for 70% of all projects. When looking at the main 3 categories only, the success rate is 55.67%. 
-![1](https://user-images.githubusercontent.com/101296194/160309558-48354c50-0319-4955-9528-bad929ca0ac2.PNG)
+![ ](https://user-images.githubusercontent.com/101296194/160309558-48354c50-0319-4955-9528-bad929ca0ac2.PNG)
 
 The success rate for the remaining 6 categories combined is 58%.
 ![Second chart](2.png)
