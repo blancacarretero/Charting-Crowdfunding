@@ -21,9 +21,9 @@ The success rate for the remaining 6 categories combined is 58%.
 ![](https://user-images.githubusercontent.com/101296194/160309608-c160251c-fb0c-4d39-8c9b-d58e71f22da5.PNG)
 
 What we can gather from this data is that when looking at only successful and failed outcomes, campaigns that fall withing the categories of Technology, Photography and Film and Video have the greatest chance of success with percentages being:
-•	Technology (70%)
-•	Photography (70%)
-•	Film and Video (63%)
+•	Technology (70%) <br />
+•	Photography (70%) <br />
+•	Film and Video (63%) <br />
 
 A key point is that these categories seem to receive the most attention, thus backers that are looking into supporting crowdfunding projects may want to look at these categories to funding projects in as they have the greatest chance of success.
 ![](https://user-images.githubusercontent.com/101296194/160309632-f43942e7-3a9c-4f1e-a083-874638080e80.PNG)
